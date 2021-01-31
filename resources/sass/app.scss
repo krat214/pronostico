@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.circle{
+    width:64px
+}
+
+
+body{
+    background-image:url('/img/fondo/clouds-64.png');
+    opacity: 30;
+}
+

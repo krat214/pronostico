@@ -13,7 +13,7 @@
 
 <div class="container">
     <div class="d-flex justify-content-between align-items-center mb-3">
-<h1 class="display-4 mb-0 bg-white text-primary">Ultimas Consultas <img src="/img/sun.gif" alt="" class="img-circle circle px-1"></h1>
+<h1 class="display-4 mb-0 bg-white text-primary">Ultimas Consultas en vista <img src="/img/sun.gif" alt="" class="img-circle circle px-1"></h1>
   
 </div>
 <ul class="list-group">
